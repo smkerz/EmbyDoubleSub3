@@ -1,0 +1,10 @@
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\bin\Debug\netstandard2.0\EmbyPluginUiDemo.deps.json
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\bin\Debug\netstandard2.0\EmbyPluginUiDemo.dll
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\bin\Debug\netstandard2.0\EmbyPluginUiDemo.pdb
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\obj\Debug\netstandard2.0\EmbyPluginUiDemo.csproj.AssemblyReference.cache
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\obj\Debug\netstandard2.0\EmbyPluginUiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\obj\Debug\netstandard2.0\EmbyPluginUiDemo.AssemblyInfoInputs.cache
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\obj\Debug\netstandard2.0\EmbyPluginUiDemo.AssemblyInfo.cs
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\obj\Debug\netstandard2.0\EmbyPluginUiDemo.csproj.CoreCompileInputs.cache
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\obj\Debug\netstandard2.0\EmbyPluginUiDemo.dll
+C:\Users\smk20\OneDrive\Bureau\GitHub\EmbyDoubleSub3\obj\Debug\netstandard2.0\EmbyPluginUiDemo.pdb

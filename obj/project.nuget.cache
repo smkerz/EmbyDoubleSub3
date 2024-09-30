@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "muHWJfQqIYc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smk20\\OneDrive\\Bureau\\GitHub\\EmbyDoubleSub3\\EmbyPluginUiDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smk20\\.nuget\\packages\\mediabrowser.common\\4.8.0.38-beta\\mediabrowser.common.4.8.0.38-beta.nupkg.sha512",
+    "C:\\Users\\smk20\\.nuget\\packages\\mediabrowser.server.core\\4.8.0.38-beta\\mediabrowser.server.core.4.8.0.38-beta.nupkg.sha512",
+    "C:\\Users\\smk20\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\smk20\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
